@@ -1,0 +1,1 @@
+En el vídeo coloque que acá habían 2 archivos rar, es decir, la web y el servidor. Luego de editar el video decidi dejar las carpetas de ambos sin compilar. Saludos :D

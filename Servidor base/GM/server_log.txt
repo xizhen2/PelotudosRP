@@ -1,0 +1,1039 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:15:33] 
+[10:15:33] Server Plugins
+[10:15:33] --------------
+[10:15:33]  Loading plugin: mysql
+[10:15:40]  >> plugin.mysql: R39-3 successfully loaded.
+[10:15:40]   Loaded.
+[10:15:40]  Loading plugin: streamer
+[10:15:41] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[10:15:41]   Loaded.
+[10:15:41]  Loading plugin: sscanf
+[10:15:42] 
+
+[10:15:42]  ===============================
+
+[10:15:42]       sscanf plugin loaded.     
+
+[10:15:42]          Version:  2.8.1        
+
+[10:15:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:15:42]  ===============================
+
+[10:15:42]   Loaded.
+[10:15:42]  Loaded 3 plugins.
+
+[10:15:43] 
+[10:15:43] Filterscripts
+[10:15:43] ---------------
+[10:15:43]   Loading filterscript 'gl_realtime.amx'...
+[10:15:43]   Unable to load filterscript 'gl_realtime.amx'.
+[10:15:43]   Loaded 0 filterscripts.
+
+[10:15:48] Conectando...
+[10:15:48] Conectado.
+[10:15:48] GM base creada por KRISSTI4N - 2015
+[10:15:48] Number of vehicle models: 0
+[10:27:40] [connection] 127.0.0.1:49892 requests connection cookie.
+[10:27:41] Incoming connection: 127.0.0.1:49892 id: 0
+[10:27:41] [join] Sean_Jonhson has joined the server (0:127.0.0.1)
+[10:28:00] Cuenta creada: Sean_Jonhson - Edad: 19 - Genero: 0
+[10:28:33] [part] Sean_Jonhson has left the server (0:1)
+[10:30:18] --- Server Shutting Down.
+[10:30:18] plugin.mysql: Unloading plugin...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:54:24] 
+[10:54:24] Server Plugins
+[10:54:24] --------------
+[10:54:24]  Loading plugin: mysql
+[10:54:24]  >> plugin.mysql: R39-3 successfully loaded.
+[10:54:24]   Loaded.
+[10:54:24]  Loading plugin: streamer
+[10:54:24] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[10:54:24]   Loaded.
+[10:54:24]  Loading plugin: sscanf
+[10:54:24] 
+
+[10:54:24]  ===============================
+
+[10:54:24]       sscanf plugin loaded.     
+
+[10:54:24]          Version:  2.8.1        
+
+[10:54:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:54:24]  ===============================
+
+[10:54:24]   Loaded.
+[10:54:24]  Loaded 3 plugins.
+
+[10:54:24] 
+[10:54:24] Filterscripts
+[10:54:24] ---------------
+[10:54:24]   Loading filterscript 'gl_realtime.amx'...
+[10:54:24]   Unable to load filterscript 'gl_realtime.amx'.
+[10:54:24]   Loaded 0 filterscripts.
+
+[10:54:24] Conectando...
+[10:54:24] No se pudo conectar.
+[10:54:24] GM base creada por KRISSTI4N - 2015
+[10:54:24] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:54:39] 
+[10:54:39] Server Plugins
+[10:54:39] --------------
+[10:54:39]  Loading plugin: mysql
+[10:54:39]  >> plugin.mysql: R39-3 successfully loaded.
+[10:54:39]   Loaded.
+[10:54:39]  Loading plugin: streamer
+[10:54:39] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[10:54:39]   Loaded.
+[10:54:39]  Loading plugin: sscanf
+[10:54:39] 
+
+[10:54:39]  ===============================
+
+[10:54:39]       sscanf plugin loaded.     
+
+[10:54:39]          Version:  2.8.1        
+
+[10:54:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:54:39]  ===============================
+
+[10:54:39]   Loaded.
+[10:54:39]  Loaded 3 plugins.
+
+[10:54:39] 
+[10:54:39] Filterscripts
+[10:54:39] ---------------
+[10:54:39]   Loading filterscript 'gl_realtime.amx'...
+[10:54:39]   Unable to load filterscript 'gl_realtime.amx'.
+[10:54:39]   Loaded 0 filterscripts.
+
+[10:54:42] Conectando...
+[10:54:42] No se pudo conectar.
+[10:54:42] GM base creada por KRISSTI4N - 2015
+[10:54:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:54:56] 
+[10:54:56] Server Plugins
+[10:54:56] --------------
+[10:54:56]  Loading plugin: mysql
+[10:54:57]  >> plugin.mysql: R39-3 successfully loaded.
+[10:54:57]   Loaded.
+[10:54:57]  Loading plugin: streamer
+[10:54:57] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[10:54:57]   Loaded.
+[10:54:57]  Loading plugin: sscanf
+[10:54:57] 
+
+[10:54:57]  ===============================
+
+[10:54:57]       sscanf plugin loaded.     
+
+[10:54:57]          Version:  2.8.1        
+
+[10:54:57]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:54:57]  ===============================
+
+[10:54:57]   Loaded.
+[10:54:57]  Loaded 3 plugins.
+
+[10:54:57] 
+[10:54:57] Filterscripts
+[10:54:57] ---------------
+[10:54:57]   Loading filterscript 'gl_realtime.amx'...
+[10:54:57]   Unable to load filterscript 'gl_realtime.amx'.
+[10:54:57]   Loaded 0 filterscripts.
+
+[10:54:57] Conectando...
+[10:54:57] No se pudo conectar.
+[10:54:57] GM base creada por KRISSTI4N - 2015
+[10:54:57] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:37:22] 
+[11:37:22] Server Plugins
+[11:37:22] --------------
+[11:37:22]  Loading plugin: mysql
+[11:37:22]  >> plugin.mysql: R39-3 successfully loaded.
+[11:37:22]   Loaded.
+[11:37:22]  Loading plugin: streamer
+[11:37:22] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[11:37:22]   Loaded.
+[11:37:22]  Loading plugin: sscanf
+[11:37:22] 
+
+[11:37:22]  ===============================
+
+[11:37:22]       sscanf plugin loaded.     
+
+[11:37:22]          Version:  2.8.1        
+
+[11:37:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:37:22]  ===============================
+
+[11:37:22]   Loaded.
+[11:37:22]  Loaded 3 plugins.
+
+[11:37:23] 
+[11:37:23] Filterscripts
+[11:37:23] ---------------
+[11:37:23]   Loading filterscript 'gl_realtime.amx'...
+[11:37:23]   Unable to load filterscript 'gl_realtime.amx'.
+[11:37:23]   Loaded 0 filterscripts.
+
+[11:37:23] Conectando...
+[11:37:23] Conectado.
+[11:37:23] GM base creada por KRISSTI4N - 2015
+[11:37:23] Number of vehicle models: 0
+[11:37:26] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:40:30] 
+[11:40:30] Server Plugins
+[11:40:30] --------------
+[11:40:30]  Loading plugin: mysql
+[11:40:30]  >> plugin.mysql: R39-3 successfully loaded.
+[11:40:30]   Loaded.
+[11:40:30]  Loading plugin: streamer
+[11:40:30] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[11:40:30]   Loaded.
+[11:40:30]  Loading plugin: sscanf
+[11:40:30] 
+
+[11:40:30]  ===============================
+
+[11:40:30]       sscanf plugin loaded.     
+
+[11:40:30]          Version:  2.8.1        
+
+[11:40:30]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:40:30]  ===============================
+
+[11:40:30]   Loaded.
+[11:40:30]  Loaded 3 plugins.
+
+[11:40:30] 
+[11:40:30] Filterscripts
+[11:40:30] ---------------
+[11:40:30]   Loading filterscript 'gl_realtime.amx'...
+[11:40:30]   Unable to load filterscript 'gl_realtime.amx'.
+[11:40:30]   Loaded 0 filterscripts.
+
+[11:40:30] Conectando...
+[11:40:30] No se pudo conectar.
+[11:40:30] GM base creada por KRISSTI4N - 2015
+[11:40:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:40:59] 
+[11:40:59] Server Plugins
+[11:40:59] --------------
+[11:40:59]  Loading plugin: mysql
+[11:40:59]  >> plugin.mysql: R39-3 successfully loaded.
+[11:40:59]   Loaded.
+[11:40:59]  Loading plugin: streamer
+[11:40:59] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[11:40:59]   Loaded.
+[11:40:59]  Loading plugin: sscanf
+[11:40:59] 
+
+[11:40:59]  ===============================
+
+[11:40:59]       sscanf plugin loaded.     
+
+[11:40:59]          Version:  2.8.1        
+
+[11:40:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:40:59]  ===============================
+
+[11:40:59]   Loaded.
+[11:40:59]  Loaded 3 plugins.
+
+[11:40:59] 
+[11:40:59] Filterscripts
+[11:40:59] ---------------
+[11:40:59]   Loading filterscript 'gl_realtime.amx'...
+[11:40:59]   Unable to load filterscript 'gl_realtime.amx'.
+[11:40:59]   Loaded 0 filterscripts.
+
+[11:40:59] Conectando...
+[11:40:59] No se pudo conectar.
+[11:40:59] GM base creada por KRISSTI4N - 2015
+[11:40:59] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:42:42] 
+[11:42:42] Server Plugins
+[11:42:42] --------------
+[11:42:42]  Loading plugin: mysql
+[11:42:42]  >> plugin.mysql: R39-3 successfully loaded.
+[11:42:42]   Loaded.
+[11:42:42]  Loading plugin: streamer
+[11:42:42] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[11:42:42]   Loaded.
+[11:42:42]  Loading plugin: sscanf
+[11:42:42] 
+
+[11:42:42]  ===============================
+
+[11:42:42]       sscanf plugin loaded.     
+
+[11:42:42]          Version:  2.8.1        
+
+[11:42:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:42:42]  ===============================
+
+[11:42:42]   Loaded.
+[11:42:42]  Loaded 3 plugins.
+
+[11:42:42] 
+[11:42:42] Filterscripts
+[11:42:42] ---------------
+[11:42:42]   Loading filterscript 'gl_realtime.amx'...
+[11:42:42]   Unable to load filterscript 'gl_realtime.amx'.
+[11:42:42]   Loaded 0 filterscripts.
+
+[11:42:42] Conectando...
+[11:42:42] No se pudo conectar.
+[11:42:42] GM base creada por KRISSTI4N - 2015
+[11:42:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:45:56] 
+[11:45:56] Server Plugins
+[11:45:56] --------------
+[11:45:56]  Loading plugin: mysql
+[11:45:56]  >> plugin.mysql: R39-3 successfully loaded.
+[11:45:56]   Loaded.
+[11:45:56]  Loading plugin: streamer
+[11:45:56] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[11:45:56]   Loaded.
+[11:45:56]  Loading plugin: sscanf
+[11:45:56] 
+
+[11:45:56]  ===============================
+
+[11:45:56]       sscanf plugin loaded.     
+
+[11:45:56]          Version:  2.8.1        
+
+[11:45:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:45:56]  ===============================
+
+[11:45:56]   Loaded.
+[11:45:56]  Loaded 3 plugins.
+
+[11:45:56] 
+[11:45:56] Filterscripts
+[11:45:56] ---------------
+[11:45:56]   Loading filterscript 'gl_realtime.amx'...
+[11:45:56]   Unable to load filterscript 'gl_realtime.amx'.
+[11:45:56]   Loaded 0 filterscripts.
+
+[11:45:56] Conectando...
+[11:45:56] No se pudo conectar.
+[11:45:56] GM base creada por KRISSTI4N - 2015
+[11:45:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:48:44] 
+[11:48:44] Server Plugins
+[11:48:44] --------------
+[11:48:44]  Loading plugin: mysql
+[11:48:44]  >> plugin.mysql: R39-3 successfully loaded.
+[11:48:44]   Loaded.
+[11:48:44]  Loading plugin: streamer
+[11:48:44] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[11:48:44]   Loaded.
+[11:48:44]  Loading plugin: sscanf
+[11:48:44] 
+
+[11:48:44]  ===============================
+
+[11:48:44]       sscanf plugin loaded.     
+
+[11:48:44]          Version:  2.8.1        
+
+[11:48:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:48:44]  ===============================
+
+[11:48:44]   Loaded.
+[11:48:44]  Loaded 3 plugins.
+
+[11:48:44] 
+[11:48:44] Filterscripts
+[11:48:44] ---------------
+[11:48:44]   Loading filterscript 'gl_realtime.amx'...
+[11:48:44]   Unable to load filterscript 'gl_realtime.amx'.
+[11:48:44]   Loaded 0 filterscripts.
+
+[11:48:44] Conectando...
+[11:48:44] Conectado.
+[11:48:44] GM base creada por KRISSTI4N - 2015
+[11:48:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:50:32] 
+[11:50:32] Server Plugins
+[11:50:32] --------------
+[11:50:32]  Loading plugin: mysql
+[11:50:32]  >> plugin.mysql: R39-3 successfully loaded.
+[11:50:32]   Loaded.
+[11:50:32]  Loading plugin: streamer
+[11:50:32] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[11:50:32]   Loaded.
+[11:50:32]  Loading plugin: sscanf
+[11:50:32] 
+
+[11:50:32]  ===============================
+
+[11:50:32]       sscanf plugin loaded.     
+
+[11:50:32]          Version:  2.8.1        
+
+[11:50:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:50:32]  ===============================
+
+[11:50:32]   Loaded.
+[11:50:32]  Loaded 3 plugins.
+
+[11:50:32] 
+[11:50:32] Filterscripts
+[11:50:32] ---------------
+[11:50:32]   Loading filterscript 'gl_realtime.amx'...
+[11:50:32]   Unable to load filterscript 'gl_realtime.amx'.
+[11:50:32]   Loaded 0 filterscripts.
+
+[11:50:32] Conectando...
+[11:50:32] Conectado.
+[11:50:32] GM base creada por KRISSTI4N - 2015
+[11:50:32] Number of vehicle models: 0
+[11:51:56] [connection] 127.0.0.1:50520 requests connection cookie.
+[11:51:57] Incoming connection: 127.0.0.1:50520 id: 0
+[11:51:57] [join] Sean_Jonhson has joined the server (0:127.0.0.1)
+[12:07:37] [part] Sean_Jonhson has left the server (0:2)
+[12:08:41] [connection] 127.0.0.1:64340 requests connection cookie.
+[12:08:42] Incoming connection: 127.0.0.1:64340 id: 0
+[12:08:42] [join] Sean_Jonhson has joined the server (0:127.0.0.1)
+[12:08:44] [part] Sean_Jonhson has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[12:19:48] 
+[12:19:48] Server Plugins
+[12:19:48] --------------
+[12:19:48]  Loading plugin: mysql
+[12:19:48]  >> plugin.mysql: R39-3 successfully loaded.
+[12:19:48]   Loaded.
+[12:19:48]  Loading plugin: streamer
+[12:19:48] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[12:19:48]   Loaded.
+[12:19:48]  Loading plugin: sscanf
+[12:19:48] 
+
+[12:19:48]  ===============================
+
+[12:19:48]       sscanf plugin loaded.     
+
+[12:19:48]          Version:  2.8.1        
+
+[12:19:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:19:48]  ===============================
+
+[12:19:48]   Loaded.
+[12:19:48]  Loaded 3 plugins.
+
+[12:19:48] 
+[12:19:48] Filterscripts
+[12:19:48] ---------------
+[12:19:48]   Loading filterscript 'gl_realtime.amx'...
+[12:19:48]   Unable to load filterscript 'gl_realtime.amx'.
+[12:19:48]   Loaded 0 filterscripts.
+
+[12:19:49] Conectando...
+[12:19:49] Conectado.
+[12:19:49] GM base creada por KRISSTI4N - 2015
+[12:19:49] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[12:20:51] 
+[12:20:51] Server Plugins
+[12:20:51] --------------
+[12:20:51]  Loading plugin: mysql
+[12:20:51]  >> plugin.mysql: R39-3 successfully loaded.
+[12:20:51]   Loaded.
+[12:20:51]  Loading plugin: streamer
+[12:20:51] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[12:20:51]   Loaded.
+[12:20:51]  Loading plugin: sscanf
+[12:20:51] 
+
+[12:20:51]  ===============================
+
+[12:20:51]       sscanf plugin loaded.     
+
+[12:20:51]          Version:  2.8.1        
+
+[12:20:51]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:20:51]  ===============================
+
+[12:20:51]   Loaded.
+[12:20:51]  Loaded 3 plugins.
+
+[12:20:51] 
+[12:20:51] Filterscripts
+[12:20:51] ---------------
+[12:20:51]   Loading filterscript 'gl_realtime.amx'...
+[12:20:51]   Unable to load filterscript 'gl_realtime.amx'.
+[12:20:51]   Loaded 0 filterscripts.
+
+[12:20:51] Conectando...
+[12:20:51] Conectado.
+[12:20:51] GM base creada por KRISSTI4N - 2015
+[12:20:51] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[12:22:05] 
+[12:22:05] Server Plugins
+[12:22:05] --------------
+[12:22:05]  Loading plugin: mysql
+[12:22:05]  >> plugin.mysql: R39-3 successfully loaded.
+[12:22:05]   Loaded.
+[12:22:05]  Loading plugin: streamer
+[12:22:05] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[12:22:05]   Loaded.
+[12:22:05]  Loading plugin: sscanf
+[12:22:05] 
+
+[12:22:05]  ===============================
+
+[12:22:05]       sscanf plugin loaded.     
+
+[12:22:05]          Version:  2.8.1        
+
+[12:22:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:22:05]  ===============================
+
+[12:22:05]   Loaded.
+[12:22:05]  Loaded 3 plugins.
+
+[12:22:05] 
+[12:22:05] Filterscripts
+[12:22:05] ---------------
+[12:22:05]   Loading filterscript 'gl_realtime.amx'...
+[12:22:05]   Unable to load filterscript 'gl_realtime.amx'.
+[12:22:05]   Loaded 0 filterscripts.
+
+[12:22:05] Conectando...
+[12:22:05] Conectado.
+[12:22:05] GM base creada por KRISSTI4N - 2015
+[12:22:05] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[12:22:42] 
+[12:22:42] Server Plugins
+[12:22:42] --------------
+[12:22:42]  Loading plugin: mysql
+[12:22:42]  >> plugin.mysql: R39-3 successfully loaded.
+[12:22:42]   Loaded.
+[12:22:42]  Loading plugin: streamer
+[12:22:42] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[12:22:42]   Loaded.
+[12:22:42]  Loading plugin: sscanf
+[12:22:42] 
+
+[12:22:42]  ===============================
+
+[12:22:42]       sscanf plugin loaded.     
+
+[12:22:42]          Version:  2.8.1        
+
+[12:22:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:22:42]  ===============================
+
+[12:22:42]   Loaded.
+[12:22:42]  Loaded 3 plugins.
+
+[12:22:43] 
+[12:22:43] Filterscripts
+[12:22:43] ---------------
+[12:22:43]   Loading filterscript 'gl_realtime.amx'...
+[12:22:43]   Unable to load filterscript 'gl_realtime.amx'.
+[12:22:43]   Loaded 0 filterscripts.
+
+[12:22:43] Conectando...
+[12:22:43] Conectado.
+[12:22:43] GM base creada por KRISSTI4N - 2015
+[12:22:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[12:22:46] 
+[12:22:46] Server Plugins
+[12:22:46] --------------
+[12:22:46]  Loading plugin: mysql
+[12:22:46]  >> plugin.mysql: R39-3 successfully loaded.
+[12:22:46]   Loaded.
+[12:22:46]  Loading plugin: streamer
+[12:22:46] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[12:22:46]   Loaded.
+[12:22:46]  Loading plugin: sscanf
+[12:22:46] 
+
+[12:22:46]  ===============================
+
+[12:22:46]       sscanf plugin loaded.     
+
+[12:22:46]          Version:  2.8.1        
+
+[12:22:46]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:22:46]  ===============================
+
+[12:22:46]   Loaded.
+[12:22:46]  Loaded 3 plugins.
+
+[12:22:46] 
+[12:22:46] Filterscripts
+[12:22:46] ---------------
+[12:22:46]   Loading filterscript 'gl_realtime.amx'...
+[12:22:46]   Unable to load filterscript 'gl_realtime.amx'.
+[12:22:46]   Loaded 0 filterscripts.
+
+[12:22:46] Conectando...
+[12:22:46] Conectado.
+[12:22:46] GM base creada por KRISSTI4N - 2015
+[12:22:46] Number of vehicle models: 0
+[12:24:14] [connection] 127.0.0.1:59598 requests connection cookie.
+[12:24:15] Incoming connection: 127.0.0.1:59598 id: 0
+[12:24:16] [join] Sean_Jonhson has joined the server (0:127.0.0.1)
+[12:24:24] [part] Sean_Jonhson has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:27:42] 
+[11:27:42] Server Plugins
+[11:27:42] --------------
+[11:27:42]  Loading plugin: mysql
+[11:27:42]  >> plugin.mysql: R39-3 successfully loaded.
+[11:27:42]   Loaded.
+[11:27:42]  Loading plugin: streamer
+[11:27:42] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[11:27:42]   Loaded.
+[11:27:42]  Loading plugin: sscanf
+[11:27:42] 
+
+[11:27:42]  ===============================
+
+[11:27:42]       sscanf plugin loaded.     
+
+[11:27:42]          Version:  2.8.1        
+
+[11:27:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:27:42]  ===============================
+
+[11:27:42]   Loaded.
+[11:27:42]  Loaded 3 plugins.
+
+[11:27:42] 
+[11:27:42] Filterscripts
+[11:27:42] ---------------
+[11:27:42]   Loading filterscript 'gl_realtime.amx'...
+[11:27:42]   Unable to load filterscript 'gl_realtime.amx'.
+[11:27:42]   Loaded 0 filterscripts.
+
+[11:27:45] Conectando...
+[11:27:45] No se pudo conectar.
+[11:27:45] GM base creada por KRISSTI4N - 2015
+[11:27:45] Number of vehicle models: 0
+[11:27:52] --- Server Shutting Down.
+[11:27:52] plugin.mysql: Unloading plugin...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:33:36] 
+[11:33:36] Server Plugins
+[11:33:36] --------------
+[11:33:36]  Loading plugin: mysql
+[11:33:36]  >> plugin.mysql: R39-3 successfully loaded.
+[11:33:36]   Loaded.
+[11:33:36]  Loading plugin: streamer
+[11:33:36] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[11:33:36]   Loaded.
+[11:33:36]  Loading plugin: sscanf
+[11:33:36] 
+
+[11:33:36]  ===============================
+
+[11:33:36]       sscanf plugin loaded.     
+
+[11:33:36]          Version:  2.8.1        
+
+[11:33:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:33:36]  ===============================
+
+[11:33:36]   Loaded.
+[11:33:36]  Loaded 3 plugins.
+
+[11:33:36] 
+[11:33:36] Filterscripts
+[11:33:36] ---------------
+[11:33:36]   Loading filterscript 'gl_realtime.amx'...
+[11:33:36]   Unable to load filterscript 'gl_realtime.amx'.
+[11:33:36]   Loaded 0 filterscripts.
+
+[11:33:36] Conectando...
+[11:33:36] Conectado.
+[11:33:36] GM base creada por KRISSTI4N - 2015
+[11:33:36] Number of vehicle models: 0
+[11:34:16] [connection] 127.0.0.1:64346 requests connection cookie.
+[11:34:17] Incoming connection: 127.0.0.1:64346 id: 0
+[11:34:17] [join] Hankel_Box has joined the server (0:127.0.0.1)
+[11:34:29] Cuenta creada: Hankel_Box - Edad: 18 - Genero: 0
+[11:34:59] [part] Hankel_Box has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:37:34] 
+[11:37:34] Server Plugins
+[11:37:34] --------------
+[11:37:34]  Loading plugin: mysql
+[11:37:34]  >> plugin.mysql: R39-3 successfully loaded.
+[11:37:34]   Loaded.
+[11:37:34]  Loading plugin: streamer
+[11:37:34] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[11:37:34]   Loaded.
+[11:37:34]  Loading plugin: sscanf
+[11:37:34] 
+
+[11:37:34]  ===============================
+
+[11:37:34]       sscanf plugin loaded.     
+
+[11:37:34]          Version:  2.8.1        
+
+[11:37:34]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:37:34]  ===============================
+
+[11:37:34]   Loaded.
+[11:37:34]  Loaded 3 plugins.
+
+[11:37:34] 
+[11:37:34] Filterscripts
+[11:37:34] ---------------
+[11:37:34]   Loading filterscript 'gl_realtime.amx'...
+[11:37:34]   Unable to load filterscript 'gl_realtime.amx'.
+[11:37:34]   Loaded 0 filterscripts.
+
+[11:37:36] Conectando...
+[11:37:36] No se pudo conectar.
+[11:37:36] GM base creada por KRISSTI4N - 2015
+[11:37:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:37:53] 
+[11:37:53] Server Plugins
+[11:37:53] --------------
+[11:37:53]  Loading plugin: mysql
+[11:37:53]  >> plugin.mysql: R39-3 successfully loaded.
+[11:37:53]   Loaded.
+[11:37:53]  Loading plugin: streamer
+[11:37:53] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[11:37:53]   Loaded.
+[11:37:53]  Loading plugin: sscanf
+[11:37:53] 
+
+[11:37:53]  ===============================
+
+[11:37:53]       sscanf plugin loaded.     
+
+[11:37:53]          Version:  2.8.1        
+
+[11:37:53]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:37:53]  ===============================
+
+[11:37:53]   Loaded.
+[11:37:53]  Loaded 3 plugins.
+
+[11:37:54] 
+[11:37:54] Filterscripts
+[11:37:54] ---------------
+[11:37:54]   Loading filterscript 'gl_realtime.amx'...
+[11:37:54]   Unable to load filterscript 'gl_realtime.amx'.
+[11:37:54]   Loaded 0 filterscripts.
+
+[11:37:56] Conectando...
+[11:37:56] No se pudo conectar.
+[11:37:56] GM base creada por KRISSTI4N - 2015
+[11:37:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:38:18] 
+[11:38:18] Server Plugins
+[11:38:18] --------------
+[11:38:18]  Loading plugin: mysql
+[11:38:18]  >> plugin.mysql: R39-3 successfully loaded.
+[11:38:18]   Loaded.
+[11:38:18]  Loading plugin: streamer
+[11:38:18] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[11:38:18]   Loaded.
+[11:38:18]  Loading plugin: sscanf
+[11:38:18] 
+
+[11:38:18]  ===============================
+
+[11:38:18]       sscanf plugin loaded.     
+
+[11:38:18]          Version:  2.8.1        
+
+[11:38:18]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:38:18]  ===============================
+
+[11:38:18]   Loaded.
+[11:38:18]  Loaded 3 plugins.
+
+[11:38:18] 
+[11:38:18] Filterscripts
+[11:38:18] ---------------
+[11:38:18]   Loading filterscript 'gl_realtime.amx'...
+[11:38:18]   Unable to load filterscript 'gl_realtime.amx'.
+[11:38:18]   Loaded 0 filterscripts.
+
+[11:38:18] Conectando...
+[11:38:18] Conectado.
+[11:38:18] GM base creada por KRISSTI4N - 2015
+[11:38:18] Number of vehicle models: 0
+[11:38:40] [connection] 127.0.0.1:64348 requests connection cookie.
+[11:38:41] Incoming connection: 127.0.0.1:64348 id: 0
+[11:38:41] [join] Hankel_Box has joined the server (0:127.0.0.1)
+[11:39:19] [part] Hankel_Box has left the server (0:1)
